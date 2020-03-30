@@ -1,3 +1,4 @@
+```
 void setup(){
 
   size(800,300);
@@ -28,3 +29,4 @@ void keyPressed(){
   a=key-'0';
   
 }
+```
